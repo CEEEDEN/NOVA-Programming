@@ -1,1 +1,2 @@
-print("hfasjdfklasdjl;dkfkl;sjfkl;afkldfjklasdklfajskldfjkaas_dflaskfjaldkfjasld;fjsdf")
+for i in range(10):
+	print(i + 1)
